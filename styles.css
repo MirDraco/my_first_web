@@ -1,0 +1,10 @@
+/* 텍스트 가운데 정렬 */
+.center-text {
+    text-align: center; 
+}
+
+/* 링크의 밑줄 제거 */
+a {
+    text-decoration: none; 
+}
+
