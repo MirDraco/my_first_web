@@ -1,3 +1,8 @@
+/* 헤더 사이즈 설정 */ 
+header {
+    text-align: center;
+    background-color: #00A8FF;
+}
 /* 텍스트 가운데 정렬 */
 .center-text {
     text-align: center; 
@@ -8,3 +13,7 @@ a {
     text-decoration: none; 
 }
 
+/* 버튼이 들어있는 Div 설정 */
+.button-line{
+    height: 30px;
+}
